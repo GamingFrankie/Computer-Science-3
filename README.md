@@ -1,4 +1,5 @@
-# ICS3U1
+# Computer Science (ICS 3U1)
+
 This is the homework for ICS3U1.
 
 I provide the solution to each question with a multiple entry program named [X](https://github.com/GamingFrankie/Computer-Science-3/blob/master/Wave%201/Farmland.py), 
