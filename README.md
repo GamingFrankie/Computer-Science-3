@@ -7,4 +7,4 @@ along with a sigle entry version named "X-Simplyfied."
 
 Where X is the name of the program.
 
-Pleacse check projects for detailed completion status.
+Pleacse check [projects](https://github.com/GamingFrankie/Computer-Science-3/projects) for detailed completion status.
