@@ -10,4 +10,4 @@ Where X is the name of the program, click to see the actual example.
 
 Pleacse check [projects](https://github.com/GamingFrankie/Computer-Science-3/projects) for detailed completion status.
 
-Please go [here](https://github.com/GamingFrankie/Computer-Science-3/blob/master/Comments) to provide me with any suggestions by adding a pull request.
+Please provide me with any suggestions by adding a pull request.
