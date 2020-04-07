@@ -6,3 +6,5 @@ I provide the solution to each question with a multiple entry program named "X,"
 along with a sigle entry version named "X-Simplyfied."
 
 Where X is the name of the program.
+
+Pleacse check projects for detailed completion status.
