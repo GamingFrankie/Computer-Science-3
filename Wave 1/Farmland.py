@@ -1,3 +1,6 @@
+
+# input feet, calculate for area in acres.
+
 print("Welcome to the Farmland Calculator!")
 print("-----------------------------------")
 
