@@ -3,7 +3,6 @@
 # I also create a while loop for sake of the completion of the program.
 
 import math
-
 print("Welcome to the Cylinder Volume Calculator!")
 print("-----------------------------------")
 
@@ -20,3 +19,24 @@ while True:
   print("Yes = Y")
   print("No = N")
   answer = input("Your Answer: ")
+
+  if answer == "Y":
+    print("-----------------------------------")
+    circle = rad * rad * math.pi
+    area = circle * height
+    
+    print("The Volume of the CYLINDER is:", round(area, 1))
+    again = input("Again? ")
+    
+    if again == "Y":
+      print("-----------------------------------")
+      
+    else:
+      break
+      
+  elif answer == "N":
+    print("-----------------------------------")
+    
+  else:
+    print("Invalid answer.")
+    print("-----------------------------------")
