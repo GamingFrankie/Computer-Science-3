@@ -9,3 +9,5 @@ along with a sigle entry version named [X-Simplyfied](https://github.com/GamingF
 Where X is the name of the program, click to see the actual example.
 
 Pleacse check [projects](https://github.com/GamingFrankie/Computer-Science-3/projects) for detailed completion status.
+
+Please go to the file named [Comments](https://github.com/GamingFrankie/Computer-Science-3/blob/master/Comments) to provide me with any suggestions.
