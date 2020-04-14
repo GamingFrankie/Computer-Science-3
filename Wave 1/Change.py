@@ -8,6 +8,7 @@ while True:
   dime = 10
   nickle = 5
   cent = int(input("How many cents do you have? "))
+  print("-----------------------------------")
 
   print("The number of toonies are:", cent // toonie)
   remain = cent % toonie
