@@ -33,9 +33,9 @@ while True:
   print("No = N")
   answer = input("Your Answer: ")
   if answer == "Y":
-    break
+      break
   elif answer == "N":
-    print("-----------------------------------")
+      print("-----------------------------------")
   else:
-    print("Invalid answer.")
-    print("-----------------------------------")
+      print("Invalid answer.")
+      print("-----------------------------------")
