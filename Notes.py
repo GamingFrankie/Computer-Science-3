@@ -1,7 +1,7 @@
 # Note 1: Digits
 
 number = 5
-x = 4
+x = 04
 f"{number:x}"
 
 # Output "0005"
