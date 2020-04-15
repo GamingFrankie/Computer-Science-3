@@ -1,6 +1,0 @@
-# The calculations from units to seconds are
-
-# second = output
-# minute = 60 * second
-# hour = 60 * minute
-# day = 24 * hour
