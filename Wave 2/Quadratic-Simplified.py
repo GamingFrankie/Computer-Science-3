@@ -1,5 +1,5 @@
 
-# The lines should be under 24 after delete those comments
+# The lines is under 24 after delete those comments
 
 # Number of roots: b * b - 4ac
 # If ans > 0, number of roots = 2
