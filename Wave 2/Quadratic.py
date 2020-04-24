@@ -1,5 +1,5 @@
 # I don't want to do a while loop for this
-# This one improves the readability of the answer.
+# This one improves the readability of the answer
 # Number of roots: b * b - 4ac
 # If ans > 0, number of roots = 2
 # If ans = 0, number of root = 1
