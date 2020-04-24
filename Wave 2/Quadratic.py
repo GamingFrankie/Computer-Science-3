@@ -1,3 +1,4 @@
+
 # I don't want to do a while loop for this
 # This one improves the readability of the answer
 # Number of roots: b * b - 4ac
