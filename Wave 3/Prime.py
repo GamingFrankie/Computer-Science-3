@@ -1,4 +1,5 @@
 
+# Prime Factors
 # I feel no meaning to do a seperate version for wave 3,
 # because I am dealing with while loops in this wave.
 factor = 2
