@@ -1,3 +1,5 @@
+
+# Is Number Prime
 print("Prime Number")
 while True: 
   print()
