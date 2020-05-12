@@ -12,5 +12,4 @@ def hyp(x, y):
 
 x = float(input("Give the first side lenth: "))
 y = float(input("Give the second side lenth: "))
-
 hyp(x, y)
