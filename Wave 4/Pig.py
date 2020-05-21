@@ -1,3 +1,5 @@
+# Wave 4, Pig Latin
+
 words = str(input("Original Sentence:  "))
 words = words.lower()
 note = ",?.!/;:"
