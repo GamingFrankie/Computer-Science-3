@@ -14,4 +14,4 @@ Pleacse check [Projects](https://github.com/GamingFrankie/Computer-Science-3/pro
 
 Please provide me with any suggestions by adding a pull request.
 
-Also, I might ask some question under [Issues](https://github.com/GamingFrankie/Computer-Science-3/issues).
+Also, I might ask some questions under [Issues](https://github.com/GamingFrankie/Computer-Science-3/issues).
